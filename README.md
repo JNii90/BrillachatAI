@@ -6,8 +6,8 @@ Welcome to AFRICAIed HACKATHON PROJECT REPO. This is where you will find the sou
 ## Installation and Setup
 ### 1. Clone the Repository
 ```bash
-git clone repo-name
-cd your-repo-name
+git clone [repo-name](https://github.com/JNii90/BrillachatAI.git)
+cd BrillaChatAI
 ```
 
 ### 2. Create a Virtual Environment:
@@ -31,6 +31,9 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+## Running the Application
+
 
 
 
